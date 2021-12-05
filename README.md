@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skiv1986
-- 🌱 I’m currently learning React, GraphQl
+- 👋 Hi, I’m Artsiom
+- 🌱 I’m currently working with React, GraphQl
 
 
